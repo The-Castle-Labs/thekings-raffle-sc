@@ -1,0 +1,1 @@
+Adapted from [dRaffle](https://github.com/draffle-io/draffle)
